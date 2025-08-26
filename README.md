@@ -14,4 +14,4 @@ Where
 - $f$ is the fraction of bet for each outcome
 
 
-I am first going to explore some data on the internet for betting and extract them and try implementing the Kelly's Criterion in that set of data. 
+I am first going to explore some data on the internet for betting and extract them and try implementing the Kelly's Criterion in that set of data. This project will demonstrate how to optimize betting strategies using mathematical principles to maximize long-term returns while managing risk effectively.
